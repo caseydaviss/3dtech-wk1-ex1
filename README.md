@@ -1,2 +1,2 @@
 # 3dtech-wk1-ex1
-3D Tech- Excercise 1 (Tooling Up &amp; Getting Started)
+3D Tech- Exercise 1 (Tooling Up & Getting Started)
